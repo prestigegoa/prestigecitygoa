@@ -11,8 +11,8 @@ site:
         directory: ./documentation
     - type: space
       key: space-2
-      title: Imported content
-      path: imported-content
+      title: prestige goa
+      path: prestige-goa
       draft: true
       content:
         directory: ./imported-content
